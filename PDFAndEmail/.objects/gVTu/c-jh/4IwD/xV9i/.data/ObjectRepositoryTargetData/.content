@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FcFFMQ4sqkCMBmh_fBHTtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="90a883c0-0702-4ee4-a7c3-c6c01ceab5f5" CvTextArea="162, 389, 362, 63" CvType="AnyWordGroup" DesignTimeRectangle="165, 374, 372, 82" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='문서 창' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Aimee Bixby 10701, Yonkers, New   York, United States   ' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='문서 창' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='text' automationid='' /&gt;" Guid="8829790d-4a45-4d54-84cb-5d5da4ba1a72" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='invoice_Aimee Bixby_39797.pdf - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="90a883c0-0702-4ee4-a7c3-c6c01ceab5f5" CvTextArea="166, 294, 180, 50" CvTextArgument="Bill To:" CvType="Text" DesignTimeRectangle="165, 277, 197, 82" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='문서 창' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bill To: Ship To:   ' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='문서 창' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bill To: Ship To:   ' role='text' automationid='' check:text='Bill To: Ship To:' /&gt;" Guid="c2288877-9ee9-4531-b2b3-af17d26a9be3" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2334876c2eaed5395e416559130b3fd4.png" xmlns="">0CyQy0MkrzEmNP-9Xbc8Qiw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

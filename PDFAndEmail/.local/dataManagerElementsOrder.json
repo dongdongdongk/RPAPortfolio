@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_invoice&Sequence_3",
+        "EmailBody&Sequence_16",
+        "dataList&Sequence_3",
+        "invoiceTotal&Sequence_3",
+        "invoiceAdditionalFee&Sequence_3",
+        "invoiceServiceFee&Sequence_3",
+        "invoiceEmail&Sequence_3",
+        "invoicePhoneNumber&Sequence_3",
+        "invoiceArea&Sequence_3",
+        "invoiceAdress&Sequence_3",
+        "invoiceBillTo&Sequence_3",
+        "invoiceNumber&Sequence_3",
+        "invoiceDate&Sequence_3",
+        "PDFText&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

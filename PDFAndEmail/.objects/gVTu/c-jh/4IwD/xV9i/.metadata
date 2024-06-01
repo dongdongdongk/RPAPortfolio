@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Bill To Ship To'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xV9iVZv9_026V-z9cTGO3w",
+  "Reference": "uZrwlrrAFUWKBMEbhEma1w/xV9iVZv9_026V-z9cTGO3w",
+  "ParentRef": "uZrwlrrAFUWKBMEbhEma1w/4IwDcjKtUkubKtGmyGfvNw",
+  "Created": "2024-05-30T08:20:39.4103072Z",
+  "Updated": "2024-05-30T08:20:39.4103072Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
